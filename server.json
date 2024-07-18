@@ -23,6 +23,22 @@
       "category": "Alimentação",
       "price": 5.5,
       "createdAt": "2022-03-01"
+    },
+    {
+      "description": "Banana",
+      "price": 1,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-07-18T00:28:34.053Z",
+      "id": 4
+    },
+    {
+      "description": "Venda de Carro",
+      "price": 100000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-07-18T00:28:56.511Z",
+      "id": 5
     }
   ]
 }
